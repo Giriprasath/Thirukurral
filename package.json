@@ -1,0 +1,19 @@
+{
+  "name": "Thirukurral",
+  "version": "1.0.0",
+  "description": "Project to post a thirukural every day in facebook or twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Giriprasath/Thirukurral.git"
+  },
+  "author": "Giri prasath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giriprasath/Thirukurral/issues"
+  },
+  "homepage": "https://github.com/Giriprasath/Thirukurral"
+}
