@@ -1,0 +1,28 @@
+                   #kural_border{
+                       border: 2px solid #bcffee;
+                       border-radius: 20px;
+                       background-color: lightblue;
+                       margin: 60px 150px 100px 80px;
+                       padding: 20px 30px 50px 50px;
+                       color : darkolivegreen;
+                       font-weight: bold;
+                   }
+#kural_number{
+    padding: 10px 10px 20px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color:green;
+}
+#first_line{
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+#second_line{
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+#description{
+    padding-top: 20px;
+    color : teal;
+
+}
